@@ -1,4 +1,4 @@
-# bsTopper : for pimping your bootScore
+# bsToppings : *p*imp *y*our *b*oot*S*core
 
 [bootScore](https://bootscore.me) is an excellent theme for WordPress that wants to do once for all the work that everyone has to do if they wanted to bring [Bootstrap](https://getbootstrap.com/) into their WordPress theme. *bootScore* is free software, licensed under the MIT license.  
 
