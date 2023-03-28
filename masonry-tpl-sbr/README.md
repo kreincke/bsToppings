@@ -11,5 +11,5 @@ The [original masonry archive of *bootScore*](https://github.com/bootscore/bs-lo
 
 * Download the masonry plugin from *bootScore*: []()
 * Install the plugin into your WordPress theme.
-* Download the template `masonry-pltpl-sidebar-right.php` from *bsToppings*: 
+* Download the template `masonry-pltpl-sidebar-right.php` from *bsToppings*: [https://github.com/kreincke/bsToppings/tree/main/masonry-tpl-sbr](https://github.com/kreincke/bsToppings/tree/main/masonry-tpl-sbr)
 * Copy `masonry-pltpl-sidebar-right.php` into your theme under the name `home.php` (or any other name in accordance with the [WordPress Template Hierarchy](https://developer.wordpress.org/themes/basics/template-hierarchy/))
