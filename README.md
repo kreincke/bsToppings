@@ -8,9 +8,10 @@ This repository shall collect such secondary solutions: It shall offer MIT licen
 
 ## Solutions
 
-* getting a shortcode for font awesome
-* getting a deeper nested menu
-* integrating fancy boxes for images
-* integrating responsive images
-* getting a masonry archive with a sidebar - based on `the_excerpt()`
-* getting a masonry archive with a sidebar - based on `the_content()` 
+* [ ] getting a shortcode for font awesome
+* [ ] getting a deeper nested menu
+* [ ] integrating fancy boxes for images
+* [ ] integrating responsive images
+* [ ] getting a masonry archive with a sidebar - based on `the_excerpt()`
+* [ ] getting a masonry archive with a sidebar - based on `the_content()` 
+* ...
