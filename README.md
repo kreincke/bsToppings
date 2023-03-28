@@ -12,6 +12,6 @@ The **bsToppings** repository shall collect such secondary solutions: It **shall
 * [ ] getting a deeper nested menu
 * [ ] integrating fancy boxes for images
 * [ ] integrating responsive images
-* [x] getting a [masonry archive with a sidebar - based on `the_excerpt()`](https://github.com/kreincke/bsToppings/tree/main/masonry-tpl-sbr)
-* [x] getting a [masonry archive with a sidebar - based on `the_content()`](https://github.com/kreincke/bsToppings/tree/main/masonry-tpl-sbr-tc)
+* [x] getting a masonry archive with a sidebar - based on `the_excerpt()` [masonry-tpl-sbr](https://github.com/kreincke/bsToppings/tree/main/masonry-tpl-sbr)
+* [x] getting a masonry archive with a sidebar - based on `the_content()` [masonry-tpl-sbr-tc](https://github.com/kreincke/bsToppings/tree/main/masonry-tpl-sbr-tc)
 * [ ] ...
