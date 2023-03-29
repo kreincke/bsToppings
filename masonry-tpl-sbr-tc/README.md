@@ -16,3 +16,4 @@ The [original masonry archive of *bootScore*](https://github.com/bootscore/bs-lo
 * Install the plugin into your WordPress theme.
 * Download the template `masonry-pltpl-sidebar-right-tc.php` from *bsToppings*: [https://github.com/kreincke/bsToppings/tree/main/masonry-tpl-sbr-tc](https://github.com/kreincke/bsToppings/tree/main/masonry-tpl-sbr-tc)
 * Copy `masonry-pltpl-sidebar-right-tc.php` into your theme under the name `home.php` (or any other name in accordance with the [WordPress Template Hierarchy](https://developer.wordpress.org/themes/basics/template-hierarchy/))
+* Insert the `<!--more-->`-Tag into all Posts [otherwise the complate post will be displayed in the tile.]
