@@ -14,6 +14,6 @@ The **bsToppings** repository shall collect such secondary solutions: It **shall
 * [ ] integrating responsive images
 * [x] getting a masonry archive with a sidebar - based on `the_excerpt()`: [masonry-tpl-sbr](https://github.com/kreincke/bsToppings/tree/main/masonry-tpl-sbr)
 * [x] getting a masonry archive with a sidebar - based on `the_content()`: [masonry-tpl-sbr-tc](https://github.com/kreincke/bsToppings/tree/main/masonry-tpl-sbr-tc)
-* [x] getting a landing page only with the most recent post: [mylap-sp0lp1](https://github.com/kreincke/bsToppings/tree/main/mylap-sp0lp1)
-* [x] getting a landing page with the most recent post and sticky post: [mylap-sp1lp1](https://github.com/kreincke/bsToppings/tree/main/mylap-sp1lp1)
+* [x] getting a landing page only with the most recent post: [mylap-sp0rp1](https://github.com/kreincke/bsToppings/tree/main/mylap-sp0rp1)
+* [x] getting a landing page with the most recent post and sticky post: [mylap-sp1rp1](https://github.com/kreincke/bsToppings/tree/main/mylap-sp1rp1)
 * [ ] ...
