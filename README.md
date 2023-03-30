@@ -17,3 +17,7 @@ The **bsToppings** repository shall collect such secondary solutions: It **shall
 * [x] getting a landing page only with the most recent post: [mylap-sp0rp1](https://github.com/kreincke/bsToppings/tree/main/mylap-sp0rp1)
 * [x] getting a landing page with the most recent post and sticky post: [mylap-sp1rp1](https://github.com/kreincke/bsToppings/tree/main/mylap-sp1rp1)
 * [ ] ...
+
+## Licensing Statement
+
+As long as not stated in another way, all solutions are distributed under the terms of the MIT license (in case of code) or the CC0-License (in case of docs).
