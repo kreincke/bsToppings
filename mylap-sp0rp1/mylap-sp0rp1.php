@@ -38,66 +38,6 @@ get_header();
         </div>
       </div>
 
-      <!-- Sticky Post -->
-      <?php
-        $args = array(
-          'posts_per_page' => 1,
-          'post__in'  => get_option('sticky_posts'),
-          'ignore_sticky_posts' => 1,
-         );
-         $the_query = new WP_Query($args);
-         if ($the_query) :
-          while ($the_query->have_posts()) : 
-            $the_query->the_post();
-            if (is_sticky()): ?>
-          <div class="row">
-            <div class="col"> 
-                <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-                  <div class="card horizontal mb-4">
-                    <div class="row">
-                      <?php if (has_post_thumbnail())
-                        echo '<div class="card-img-left col-md-6 col-lg-4">' . get_the_post_thumbnail(null, 'medium') . '</div>';
-                      ?>
-                      <div class="col">
-                        <div class="card-body">
-                          <div class="row mb-2">
-                            <div class="col-12 text-end">
-                              <!-- Featured -->
-                              <div class="badge bg-info"><span class=""><i class="fa-solid fa-star"></i></span></div>
-                            </div>
-                          </div>                         
-                          <h2 class="blog-post-title">
-                            <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
-                          </h2>        
-                           <!-- Meta -->
-                            <?php if ('post' === get_post_type()) : ?>
-                            <small class="text-muted mb-2">
-                              <?php
-                              bootscore_date();
-                              bootscore_author();
-                              ?>
-                            </small>
-                            <?php endif; ?>                                          
-                           <!-- Excerpt & Read more -->
-                           <div class="card-text mt-auto">
-                            <?php the_content(); ?> 
-                          </div>                         
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </article>
-            </div>
-            <!-- col -->
-          </div>
-          <!-- row -->
-        <?php 
-            endif;
-          endwhile;
-        endif;
-        wp_reset_postdata();
-      ?>
-
      <!-- Post List -->
 
       <div class="row">
