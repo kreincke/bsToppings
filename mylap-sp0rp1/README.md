@@ -3,7 +3,6 @@
 
 ## Purpose
 
-A landing page should show the reader what is most important to him. And it should do so at first glance.  Mostly, the recent post offers the most important information to the reader.
 A landing page should show the reader what is most important to him. And it should do so at first glance.  Mostly, the most recent post is the most important part of a blog. The template *mylap-sp0rp1.php* focuses to that (sp0rp1 stands for sticky post zero, recent post 1).
 ## Effect
 ![mylap-sp0rp1 example](mylap-sp0rp1.png)
